@@ -1,0 +1,55 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+h1, h2, h3 {
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Stylizacja dla sekcji "Experience" i "Education" */
+section ul li {
+    margin-bottom: 15px;
+}
+
+/* Stylizacja dla umiejętności */
+#skills ul {
+    column-count: 3;
+}
+
+#skills ul li {
+    margin-bottom: 5px;
+}
+
+@media screen and (max-width: 768px) {
+    /* Responsywność dla umiejętności */
+    #skills ul {
+        column-count: 1;
+    }
+}
