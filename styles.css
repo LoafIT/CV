@@ -29,5 +29,8 @@ img{
 }
 .pd{
     vertical-align: top;
-    background-color: aqua;
+    background-color: lightgrey;
+}
+.pg{
+    background-color: lightgrey;
 }
