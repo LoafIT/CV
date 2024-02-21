@@ -1,71 +1,32 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f3f3f3;
+body{
+    background-image: url(tlo.jpg);
 }
-
-.resume {
-    max-width: 800px;
-    margin: 50px auto;
-    padding: 20px;
-    background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+.tabelmid{
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 0;
+    background-color: aquamarine;
+    border-collapse: collapse;
+    border-top-right-radius: 5%;
+    border-top-left-radius: 5%;
 }
-
-.header {
-    margin-bottom: 20px;
-}
-
-.header .name {
-    font-size: 24px;
-    font-weight: bold;
-    color: #333;
+.stopka{
     text-align: center;
-    padding-bottom: 10px;
-    border-bottom: 2px solid #ccc;
+    background-color: rgba(37, 43, 46, 0.495);
+    font-size: small;
 }
-
-.header p {
-    font-size: 16px;
-    color: #666;
-    margin: 5px 0;
-    text-align: center;
+.lg{
+    background-color: gray;
+    border-top-left-radius: 15%;
 }
-
-.section {
-    margin-bottom: 30px;
-    width: 100%;
+.ld{
+    background-color: gray;
+    vertical-align: top;
 }
-
-.section h2 {
-    font-size: 20px;
-    color: #333;
-    margin-bottom: 10px;
+img{
+    border-radius: 50%;
 }
-
-.section p {
-    font-size: 16px;
-    color: #666;
-    margin-bottom: 5px;
+.pd{
+    vertical-align: top;
+    background-color: aqua;
 }
-
-.section ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-.section ul li {
-    margin-bottom: 5px;
-}
-
-.section ul li::before {
-    content: "\2022";
-    color: #666;
-    font-weight: bold;
-    display: inline-block;
-    width: 1em;
-    margin-left: -1em;
-}
-
