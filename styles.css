@@ -38,7 +38,7 @@ div{
 }
 
 
-@import https://fonts.googleapis.com/css?family=Montserrat:300&subset=latin-ext;
+@import "https://fonts.googleapis.com/css?family=Montserrat:300&subset=latin-ext";
 
 *, *:after, *:before {
   -webkit-box-sizing: border-box;
