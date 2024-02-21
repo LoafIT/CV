@@ -1,18 +1,18 @@
 body{
-    background-image: url("https://github.com/LoafIT/CV/blob/main/tlo.jpg?raw=true");
+    background-image: url(tlo.jpg);
 }
 .tabelmid{
     margin-left: auto;
     margin-right: auto;
     border-spacing: 0;
-    background-color: aquamarine;
+    background-color: lightgrey;
     border-collapse: collapse;
     border-top-right-radius: 5%;
     border-top-left-radius: 5%;
 }
 .stopka{
     text-align: center;
-    background-color: rgba(37, 43, 46, 0.495);
+    background-color: rgba(255, 0, 170, 0.495);
     font-size: small;
 }
 .lg{
@@ -22,6 +22,7 @@ body{
 .ld{
     background-color: gray;
     vertical-align: top;
+    text-align: center;
 }
 img{
     border-radius: 50%;
@@ -30,6 +31,7 @@ img{
     vertical-align: top;
     background-color: lightgrey;
 }
-.pg{
-    background-color: lightgrey;
+div{
+    text-align: center;
+    vertical-align: middle;
 }
