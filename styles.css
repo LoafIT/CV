@@ -89,7 +89,7 @@ h1, h2 {
     margin-bottom: 3em;
   }
   #nayma-timeline::before {
-    left: 50%;
+   /* left: 50%;  */
     margin-left: -2px;
   }
 }
