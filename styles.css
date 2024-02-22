@@ -227,5 +227,5 @@ div{
 .pg{
     background: rgb(190,190,190);
     background: linear-gradient(90deg, rgba(190,190,190,1) 0%, rgba(136,136,136,1) 50%, rgba(76,124,114,1) 100%);
-    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
 }
