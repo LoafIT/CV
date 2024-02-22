@@ -198,8 +198,7 @@ h1, h2 {
 }
 .stopka{
     background: rgb(136,136,136);
-    background: linear-gradient(90deg, rgba(99,99,99,1) 0%, rgba(136,136,136,1) 15%, rgba(190,190,190,1) 30%, rgba(190,190,190,1) 53,33%, rgba(136,136,136,1) 76,66%, rgba(76,124,114,1) 100%);
-    text-align: center;
+    background: linear-gradient(90deg, rgba(99,99,99,1) 0%, rgba(136,136,136,1) 30%, rgba(190,190,190,1) 30%, rgba(190,190,190,1) 70%, rgba(136,136,136,1) 70%, rgba(76,124,114,1) 100%);    text-align: center;
     font-size: small;
     border-bottom-right-radius: 50px;
     border-bottom-left-radius: 50px;
