@@ -197,6 +197,7 @@ h1, h2 {
     border-bottom-left-radius: 50px;
 }
 .stopka{
+    margin-top: 70px;
     background-color: rgba(99, 99, 99, 1);
     background: linear-gradient(90deg, #636363 0%, #888888 15%, #bebebe 30%, #888888 65%, #4c7c72 100%);
     text-align: center;
