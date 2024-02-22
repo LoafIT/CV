@@ -198,7 +198,7 @@ h1, h2 {
 }
 .stopka{
     background-color: rgba(99, 99, 99, 1);
-    background-image: linear-gradient(90deg, rgba(99, 99, 99, 1) 0%, rgba(136, 136, 136, 1) 15%, rgba(190, 190, 190, 1) 30%, rgba(136, 136, 136, 1) 53.33%, rgba(136, 136, 136, 1) 76.66%, rgba(76, 119, 114, 1) 100%);
+    background: linear-gradient(90deg, #636363 0%, #888888 15%, #bebebe 30%, #888888 65%, #4c7c72 100%);
     text-align: center;
     font-size: small;
     border-bottom-right-radius: 50px;
@@ -231,7 +231,7 @@ div{
 }
 .pg{
     background: rgb(190,190,190);
-    background: linear-gradient(90deg, rgba(190,190,190,1) 0%, rgba(136,136,136,1) 50%, rgba(76,124,114,1) 100%);
+    background: linear-gradient(90deg, #bebebe 0%, #888888 50%, #4c7c72 100%);
     border-top-right-radius: 50px;
     width: "70%";
 }
