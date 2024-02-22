@@ -195,18 +195,19 @@ h1, h2 {
     border-top-left-radius: 5%;
 }
 .stopka{
+    background: rgb(136,136,136);
+    background: linear-gradient(90deg, rgba(136,136,136,1) 0%, rgba(190,190,190,1) 50%, rgba(76,124,114,1) 100%);
     text-align: center;
-    background-color: rgb(196, 191, 191);
     font-size: small;
 }
 .lg{
-    background: rgb(64,64,64);
-    background: linear-gradient(90deg, rgba(64,64,64,1) 50%, rgba(112,112,112,0.4206057422969187) 75%, rgba(76,121,128,1) 100%);
+    background: rgb(99,99,99);
+    background: linear-gradient(90deg, rgba(99,99,99,1) 0%, rgba(136,136,136,1) 50%, rgba(190,190,190,1) 100%);
     border-top-left-radius: 50px;
 }
 .ld{
-    background: rgb(64,64,64);
-    background: linear-gradient(90deg, rgba(64,64,64,1) 50%, rgba(112,112,112,0.4206057422969187) 75%, rgba(76,121,128,1) 100%);
+    background: rgb(99,99,99);
+    background: linear-gradient(90deg, rgba(99,99,99,1) 0%, rgba(136,136,136,1) 50%, rgba(190,190,190,1) 100%);
     vertical-align: top;
     text-align: center;
     color: black;
@@ -216,7 +217,7 @@ h1, h2 {
 }
 .pd{
     background: rgb(190,190,190);
-    background: linear-gradient(90deg, rgba(190,190,190,1) 50%, rgba(112,112,112,0.4206057422969187) 75%, rgba(76,121,128,1) 100%);
+    background: linear-gradient(90deg, rgba(190,190,190,1) 0%, rgba(136,136,136,1) 50%, rgba(76,124,114,1) 100%);
     vertical-align: top;
 }
 div{
@@ -225,6 +226,6 @@ div{
 }
 .pg{
     background: rgb(190,190,190);
-    background: linear-gradient(90deg, rgba(190,190,190,1) 50%, rgba(112,112,112,0.4206057422969187) 75%, rgba(76,121,128,1) 100%);
+    background: linear-gradient(90deg, rgba(190,190,190,1) 0%, rgba(136,136,136,1) 50%, rgba(76,124,114,1) 100%);
     border-top-left-radius: 50px;
 }
